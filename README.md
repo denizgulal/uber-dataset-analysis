@@ -3,13 +3,13 @@
 This repository provides a comprehensive analysis of Uber ride data using the powerful combination of Pandas for data manipulation and analysis in Python and Tableau for data visualization. The Uber dataset used in this analysis contains information about trips, dates, and geographic details.
 
 Table of Contents
-1. [Introduction]
-2. [Dataset]
-3. [Installation]
-4. [Analysis with Pandas]
-5. [Visualization with Tableau]
-6. [Contributing]
-7. [License]
+1. [Introduction](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#introduction)
+2. [Dataset](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#installation)
+3. [Installation](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#analysis-with-pandas)
+4. [Analysis with Pandas](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#visualization-with-tableau)
+5. [Visualization with Tableau](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#visualization-with-tableau)
+6. [Contributing](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#contributing)
+7. [License](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#license)
    
 ### Introduction
 Uber has transformed the way people commute, and analyzing its ride data can provide valuable insights into user behavior, peak hours, and popular routes. This project aims to explore and visualize Uber's dataset to extract meaningful patterns and trends.
@@ -59,7 +59,7 @@ Feel free to explore these visualizations to gain deeper insights into the Uber 
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/denizgulal/uber-dataset-analysis/blob/main/LICENSE) file for details.
 
 
 
