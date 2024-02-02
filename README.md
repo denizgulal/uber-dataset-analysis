@@ -1,4 +1,4 @@
-# Uber Dataset Analysis using Pandas and Tableau
+# Uber Dataset Analysis using Pandas 
 ### Overview
 This repository provides a comprehensive analysis of Uber ride data using the powerful combination of Pandas for data manipulation and analysis in Python and Tableau for data visualization. The Uber dataset used in this analysis contains information about trips, dates, and geographic details.
 
@@ -7,9 +7,8 @@ Table of Contents
 2. [Dataset](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#installation)
 3. [Installation](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#analysis-with-pandas)
 4. [Analysis with Pandas](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#visualization-with-tableau)
-5. [Visualization with Tableau](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#visualization-with-tableau)
-6. [Contributing](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#contributing)
-7. [License](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#license)
+5. [Contributing](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#contributing)
+6. [License](https://github.com/denizgulal/uber-dataset-analysis/tree/main?tab=readme-ov-file#license)
    
 ### Introduction
 Uber has transformed the way people commute, and analyzing its ride data can provide valuable insights into user behavior, peak hours, and popular routes. This project aims to explore and visualize Uber's dataset to extract meaningful patterns and trends.
@@ -43,17 +42,6 @@ The Jupyter Notebook in the analysis directory provides step-by-step data manipu
 * Time-based analysis (peak hours, days)
 * Geographic analysis (popular pickup/drop-off locations)
 
-
-
-
-### Visualization with Tableau
-The visualization directory contains Tableau workbooks that leverage the cleaned and processed data from Pandas. Tableau dashboards include:
-
-* Time-based visualizations (hourly, daily trends)
-* Geographic heatmaps of ride density
-* Ride type distribution
-
-Feel free to explore these visualizations to gain deeper insights into the Uber dataset.
 
 ### Contributing
 Contributions are welcome! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
